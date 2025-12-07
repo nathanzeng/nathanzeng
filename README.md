@@ -6,4 +6,4 @@
 
 | Project | Description | PR | Date |
 | --- | --- | --- | --- |
-| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> | Documentation fix. First open source contribution!!! | [PR](https://github.com/primefaces/primevue/pull/8302) | 2025.12 |
+| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> | Documentation fix - first open source contribution! | [PR](https://github.com/primefaces/primevue/pull/8302) | 2025.12 |
